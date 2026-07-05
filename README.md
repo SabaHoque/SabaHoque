@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Sababa%20Hoque&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Sababa%20Hoque%20Saba&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20%7C%20AI%20%7C%20Full-Stack%20Developer&descAlignY=55" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sababa Hoque Saba</h1>
@@ -10,8 +10,8 @@ Computer Science & Engineering Student • AI Enthusiast • Full-Stack Develope
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge">
+  <a href="https://github.com/SabaHoque">
+    <img src="https://img.shields.io/github/followers/SabaHoque?label=Followers&style=for-the-badge">
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Lover-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Learning-Everyday-success?style=for-the-badge">
@@ -100,27 +100,6 @@ Computer Science & Engineering Student • AI Enthusiast • Full-Stack Develope
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SabaHoque&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SabaHoque&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SabaHoqueE&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 📚 Current Focus
 
@@ -135,11 +114,11 @@ Computer Science & Engineering Student • AI Enthusiast • Full-Stack Develope
 
 # 📂 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 💰 Cash Trail | Personal Expense Tracker Web Application |
-| 👁 EyeCareAI | AI-powered Remote Eye Disease Detection |
-| 🎤 Voice Notes App | AI-based Voice-to-Text Note Taking Application |
+| Project | Description | Repository |
+|---------|-------------|------------|
+| 💰 **Multi Objective Optimization** | Computation-aware multi-objective neural network compression using NSGA-II. | [View Project](https://github.com/SabaHoque/Multi_Objective_Optimization) |
+| 💰 **Cash Trail** | Personal Expense Tracker Web Application | [View Project](https://github.com/SabaHoque/Cash-Trail-Web-Application)) |
+| 👁 **EyeCareAI** | AI-powered Remote Eye Disease Detection | [View Project](https://github.com/SabaHoque/E-medical-System)) |
 
 ---
 
